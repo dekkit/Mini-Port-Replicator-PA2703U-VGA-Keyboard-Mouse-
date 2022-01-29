@@ -26,4 +26,8 @@ See the photos and schematic which will help make understanding this clearer.
 
 Currently a PCB prototype has been produced and VGA is working! This project is still very much early stages.
 
+Initial schematic
+https://github.com/dekkit/Mini-Port-Replicator-PA2703U-VGA-Keyboard-Mouse-/blob/main/Schematic_Dek's%20Mini%20Port%20Replicator%20PA2703U%20(VGA%20%2B%20Keyboard%20%2B%20Mouse)_2022-01-29.png
+
+
 dek 29/01/2022
