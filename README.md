@@ -1,5 +1,5 @@
 # Mini-Port-Replicator-PA2703U-VGA-Keyboard-Mouse-
-An open source version of the Toshiba Port Replicator PA2703U. 
+An open source equivalent of the Toshiba Port Replicator PA2703U. 
 
 This is for Portege 610CT, T3400 and T3600 notebook/laptop computers. 
 
