@@ -34,11 +34,9 @@ A notes about the Port Replicator PA2703U socket
 
 See the photos and schematic which will help make understanding this clearer.
 
-
-VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
-
-VA02 Schematic + PCB - most recent WIP version (See VA21 folder for the latest prototype pcb) -  this is being tested currently 
-
+Releases
+- VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
+- VA02 Schematic + PCB - most recent WIP version (See VA21 folder for the latest prototype pcb) -  this is being tested currently 
 
 
 
@@ -47,10 +45,10 @@ Build Instructions (WIP)
 The PCB has been designed to be snapped apart into sections (much like a car model building kit).
 In addition to the BOM you will need nylon/plastic stand off/screw kit or something you can wedge in between the pcb layers. 
 
-1. Gently bend the 'TOP' section of the PCB until is snaps off.
-2. Gently bend the 'BOTTOM' section of the PCB until is snaps off.
+1. Gently bend the 'TOP' section of the PCB until it snaps off.
+2. Gently bend the 'BOTTOM' section of the PCB until it snaps off.
 
-... you should now have 3 PCB parts! 
+... you should now have 3 x PCB parts! 
 
 3. Insert 2 x nylon screws through each of screw holes of the 'TOP' PCB.
 4. Insert a nylon nut of 2mm thickness to hold the screw against the 'TOP' PCB (this is used to create a 2mm gap between the 'TOP' PCB and 'BOTTOM' PCB...alternatively can use spare plastic card or something else to create a gap between the 2 x pcb)
