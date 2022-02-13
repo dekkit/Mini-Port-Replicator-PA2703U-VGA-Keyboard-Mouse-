@@ -36,6 +36,7 @@ See the photos and schematic which will help make understanding this clearer.
 
 
 VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
+
 VA02 Schematic + PCB - most recent WIP version (See VA21 folder for the latest prototype pcb) -  this is being tested currently 
 
 
