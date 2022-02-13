@@ -36,7 +36,7 @@ See the photos and schematic which will help make understanding this clearer.
 
 Releases
 - VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
-- VA02 Schematic + PCB - most recent WIP version (See VA21 folder for the latest prototype pcb) -  this is being tested currently 
+- VA02 Schematic + PCB - most recent WIP version (See VA02 folder for the latest prototype pcb) -  currently being tested! 
 
 
 
@@ -56,11 +56,11 @@ In addition to the BOM you will need nylon/plastic stand off/screw kit or someth
 6. Place 'TOP' PCB over the 'BOTTOM' PCB.
 7. Insert an additional 2 x nylon nuts or PCB stand offs to screw the 2 x PCB parts together.
 
-..test / check  to make sure both pcbs line up and fit within with the laptop socket.  DO NOT PROCEED until you are comfortable with the fit.
+..test / check  to make sure both pcbs line up and fit within with the laptop socket.  DO NOT PROCEED to solder until you are comfortable with the fit.
 
 8. Solder the 6pins (CN1 and CN2) to connect the 'TOP' pcb to the 'BOTTOM' PCB.
 9. Solder the remaining  sockets and parts.
 
-See build photos folder (if unsure of any steps)
+See 'Build Photos' folder (for examples of build)
 
 dek 13/02/2022
