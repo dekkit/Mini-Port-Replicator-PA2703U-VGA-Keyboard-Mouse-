@@ -34,11 +34,33 @@ A notes about the Port Replicator PA2703U socket
 
 See the photos and schematic which will help make understanding this clearer.
 
-Currently a PCB prototype has been produced and VGA is working! This project is still very much early stages.
+Releases
+- VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
+- VA02 Schematic + PCB - most recent WIP version (See VA02 folder for the latest prototype pcb) -  currently being tested! 
 
-Initial VA01 schematic (See VA01 folder for the first pcb - if you want to get one made)
-https://github.com/dekkit/Mini-Port-Replicator-PA2703U-VGA-Keyboard-Mouse-/blob/main/Schematic_Dek's%20Mini%20Port%20Replicator%20PA2703U%20(VGA%20%2B%20Keyboard%20%2B%20Mouse)_2022-01-29.png
 
-VA02 - currently WIP -see folder for interim versions
 
-dek 31/01/2022
+Build Instructions (WIP)
+
+The PCB has been designed to be snapped apart into sections (much like a car model building kit).
+In addition to the BOM you will need nylon/plastic stand off/screw kit or something you can wedge in between the pcb layers. 
+
+1. Gently bend the 'TOP' section of the PCB until it snaps off.
+2. Gently bend the 'BOTTOM' section of the PCB until it snaps off.
+
+... you should now have 3 x PCB parts! 
+
+3. Insert 2 x nylon screws through each of screw holes of the 'TOP' PCB.
+4. Insert a nylon nut of 2mm thickness to hold the screw against the 'TOP' PCB (this is used to create a 2mm gap between the 'TOP' PCB and 'BOTTOM' PCB...alternatively can use spare plastic card or something else to create a gap between the 2 x pcb)
+5. insert a 6 pin IDC header on the 'BOTTOM' pcb (alternatively you can skip this step and later use bridging wire or spare capacitor / resistor legs to electrically join the top/bottom layers).
+6. Place 'TOP' PCB over the 'BOTTOM' PCB.
+7. Insert an additional 2 x nylon nuts or PCB stand offs to screw the 2 x PCB parts together.
+
+..test / check  to make sure both pcbs line up and fit within with the laptop socket.  DO NOT PROCEED to solder until you are comfortable with the fit.
+
+8. Solder the 6pins (CN1 and CN2) to connect the 'TOP' pcb to the 'BOTTOM' PCB.
+9. Solder the remaining  sockets and parts.
+
+See 'Build Photos' folder (for examples of build)
+
+dek 13/02/2022
