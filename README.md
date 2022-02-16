@@ -4,6 +4,7 @@ An open source equivalent of the Toshiba Port Replicator PA2703U.
 This is for Portege 610CT, T3400 and T3600 notebook/laptop computers. 
 
 New versions (schematic, pcb files, test results etc) can be found here in the code repository https://github.com/dekkit/Mini-Port-Replicator-PA2703U-VGA-Keyboard-Mouse-
+
 Versions: VA01 (initial prototype), VA02 (fixes, after initial tests),
 VAxx (future versions will be in their own folders)
 
@@ -11,7 +12,7 @@ If you want to want to get a bunch of PCBs manufactured - simply use the latest 
 
 Please feel free to copy, adapt and use as appropriate . If you do improve on this design, please provide an acknowledgement, drop me a note / create an issue to let me know and share your results.
 
-If you would like to develop your own version (customised for your specific video device, make a smaller SMD version), or simply to poke around to help further your own understanding (pick up on any errors too!) - I used the free app EasyEDA - I've opened up the project to make it easiser to clone and adapt - https://easyeda.com/dekkit/dek-s-port-replicator-pa2703u
+If you would like to develop your own version (customised for your specific needs, make a smaller SMD version), or simply to poke around to help further your own understanding (pick up on any errors too!) - I used the free app EasyEDA - I've opened up the project to make it easiser to clone and adapt - https://easyeda.com/dekkit/dek-s-port-replicator-pa2703u
 
 
 Background
@@ -29,10 +30,10 @@ A notes about the Port Replicator PA2703U socket
 - The female slots are grouped:  2x rows per group, with 36 pins (18 top, 18 bottom)
 - There 18pins per female slot (x4)
 - Pitch (gap between) each of the pins are 1.27mm
-- 0.8mm to 1.0mm gap/space between upper and lower pins
+- 0.8mm to 1.0mm gap/space between upper and lower pins (which forms a single group of 36pins)
 - 2mm space needed between top group of pins and bottom group of pins
 
-See the photos and schematic which will help make understanding this clearer.
+See the build photos and schematic which will help make understanding this clearer.
 
 Releases
 - VA01 Schematic + PCB - initial working  version (See VA01 folder for the first prototype pcb)
