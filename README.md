@@ -53,7 +53,7 @@ In addition to the BOM you will need nylon/plastic stand off/screw kit or someth
 
 3. Insert 2 x nylon screws through each of screw holes of the 'TOP' PCB.
 4. Insert a nylon nut of 2mm thickness to hold the screw against the 'TOP' PCB (this is used to create a 2mm gap between the 'TOP' PCB and 'BOTTOM' PCB...alternatively can use spare plastic card or something else to create a gap between the 2 x pcb)
-5. insert a 6 pin IDC header on the 'BOTTOM' pcb (alternatively you can skip this step and later use bridging wire or spare capacitor / resistor legs to electrically join the top/bottom layers).
+5. insert a 6 pin header on the 'BOTTOM' pcb (alternatively you can skip this step and later use bridging wire or spare capacitor / resistor legs to electrically join the top/bottom layers).
 6. Place 'TOP' PCB over the 'BOTTOM' PCB.
 7. Insert an additional 2 x nylon nuts or PCB stand offs to screw the 2 x PCB parts together.
 
